@@ -1,0 +1,448 @@
+2023-06-27 09:01:15.078941 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+2023-06-27 09:31:04.623429 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 09:35:11.196028 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 09:39:50.961518 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 10:17:33
+Customres -> Erro: DataFrame constructor not properly called!
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:15:37.795539 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:18:15.511848 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:23:59.060592 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:25:50.689976 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:32:39.279959 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:56:59.104507 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 12:12:38.409752 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 20:48:11.169975 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 20:51:49.140469 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 21:03:48.506010 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:07:45.688440 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:07:48
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_items_dataset.csv
+--------------------------------------------------------------------------------
+30/06/2023 21:07:48
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_oreders_dataset.csv
+--------------------------------------------------------------------------------
+30/06/2023 21:07:48
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_payments_dataset.csv
+--------------------------------------------------------------------------------
+2023-06-30 21:08:06.185062 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:08:06
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_reviews_dataset.csv
+--------------------------------------------------------------------------------
+2023-06-30 21:08:14.154018 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 21:14:17.464419 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:17:22.836519 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:18:19.848002 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:19:37.619141 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:20:21.453352 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:20:57.272736 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:22:05.892903 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:22:16.069889 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 17:23:04.768758 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:26:18.606438 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:27:19.431142 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:28:40.179961 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:29:32.100030 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:30:02.092456 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:31:48.481041 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:32:04.571310 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 17:42:38.535250 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:45:24.731182 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:46:24.343482 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:47:30.060951 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:48:05.989851 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:48:28.477972 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:49:27.864037 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:49:42.331021 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+01/07/2023 18:33:28
+Carga Kaggle -> Erro: [Errno 2] No such file or directory: 'gsutil'
+--------------------------------------------------------------------------------
+01/07/2023 18:33:29
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_customers_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:29
+Geolocation -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:29
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:30
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_orders_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:30
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:31
+Products -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_products_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:31
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:33:31
+Sellers -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+01/07/2023 18:39:27
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_customers_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:27
+Geolocation -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:27
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:27
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_orders_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:28
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:28
+Products -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_products_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:28
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:39:28
+Sellers -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+01/07/2023 18:47:31
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_customers_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:31
+Geolocation -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:31
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:32
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_orders_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:32
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:32
+Products -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_products_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:33
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:47:33
+Sellers -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+01/07/2023 18:56:43
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_customers_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:44
+Geolocation -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:44
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:45
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_orders_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:45
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:45
+Products -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_products_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:46
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 18:56:47
+Sellers -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+01/07/2023 19:07:41
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_customers_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:41
+Geolocation -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:42
+Items -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:42
+Orders -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_orders_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:43
+Payments -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:43
+Products -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_products_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:43
+Reviews -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv
+--------------------------------------------------------------------------------
+01/07/2023 19:07:43
+Sellers -> Erro: No files found based on the file pattern gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 20:11:05.430895 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:13:59.313587 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:14:51.816425 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:16:03.174332 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:16:38.740360 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:17:00.541071 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:18:16.918197 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:18:31.469517 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 20:33:41.373461 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:36:30.655405 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:37:23.898944 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:38:28.818903 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:39:07.021698 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:39:29.251850 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:40:27.523821 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:40:42.063645 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 21:18:20.855990 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:21:11.954375 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:22:09.603715 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:23:16.855871 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:23:53.338243 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:24:16.468477 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:25:24.238540 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:25:38.821979 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 21:57:00.352616 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:59:49.412955 - Processo de carga RAW geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:00:40.812712 - Processo de carga RAW items - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:01:47.408888 - Processo de carga RAW orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:02:25.903202 - Processo de carga RAW payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:02:49.743936 - Processo de carga RAW products - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:03:43.408723 - Processo de carga RAW reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:03:58.688404 - Processo de carga RAW sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+--------------------------------------------------------------------------------
+2023-07-01 22:22:02.439453 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:24:28.967272 - Processo de carga RAW customers - OK
+--------------------------------------------------------------------------------
+
+02/07/2023 13:17:22 - carga_raw_customers - Sucesso
+02/07/2023 13:21:07 - carga_raw_geolocation - Sucesso
+02/07/2023 13:22:44 - carga_raw_items - Sucesso
+02/07/2023 13:24:16 - carga_raw_orders - Sucesso
+02/07/2023 13:25:19 - carga_raw_payments - Sucesso
+02/07/2023 13:26:02 - carga_raw_products - Sucesso
+02/07/2023 13:27:48 - carga_raw_reviews - Sucesso
+02/07/2023 13:28:01 - carga_raw_sellers - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:34:33 - carga_raw_customers - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:37:44 - carga_raw_geolocation - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:38:55 - carga_raw_items - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:40:10 - carga_raw_orders - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:40:49 - carga_raw_payments - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:41:14 - carga_raw_products - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:42:34 - carga_raw_reviews - Sucesso
+(-------------------------------------------------------------------------------- 
+02/07/2023 13:42:45 - carga_raw_sellers - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:34 - carga_raw_customers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_customers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_customers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycduuUqROEAFr4IovOwsz9NZiq79bNkm7vGNzK2DMEArDpD0q0r-CjbAXWgSVA0mzDqKT9CaY-Sp2wNDd3XZ4Lgt3mQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:34 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:34 - carga_raw_geolocation - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_geolocation_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdt2N73ED3nTVOC4X0QiCFiJcuXBiRqLq1MTSh139R3McW_RgU_qCqGnUAWZBu8byy_1rC9e7yF_H6wdjrT42wCAJw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:34 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:35 - carga_raw_items - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_items_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdvCybqIBURNFjS14WXFtp2l9c3Jslh5-wp8xLnFJ2bT1J31CvO40-spyMIe1cnRrF2Sc3_WJwzm8_9oXgEcPnIVTg\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:35 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:35 - carga_raw_orders - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_orders_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_orders_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycds694taM6ep0sXwGqwQC_dcdI6ANG7ZtfvqMJi9Z3O616NvXf7dURfGofZCHdj2-y7WDNkubADPjpYRdNlpkp2ufw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:35 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:35 - carga_raw_payments - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_payments_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdtV-7l4RrN0JJpMVGcbW9kXyZX2650jpocBRWH207xZvXIN0PVolgsYNYc8DcSyAztxywrw04kd6zvcjM_FeczcOg\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:35 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:35 - carga_raw_products - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_products_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_products_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdtWLfTn2E3GT937vrlKmlYaaqCREKyDzZHNakirZuHcGA2B5ZzQAyRnFBhm8_VGZtN498YEp155Q2tjtsz4XLboVQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:35 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:36 - carga_raw_reviews - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_reviews_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdu4Gpqkaqxv3U5pu5Nzm8HcY6taZVKaUwMfnodjM8J8PTg1l8C_5Fje0p6h63Unx4LHtbjwS4DFxuqSFzKgigzqwg\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:36 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:36 - carga_raw_sellers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_sellers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdtWe2T_tk2Aru4FOXmHDRo0WH4l11Cz9dlaVO448Il9Df_RSan_JwQRo6melKVyblX8POwyzRm1_ALt6lyGNaBclQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Tue, 04 Jul 2023 17:27:36 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:08 - carga_raw_customers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_customers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_customers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycduMMLMvcNC8KKnOfifw9dNcOn_Zjuj2X4WOrbu2bGH0-u6kt1P2grqR7HbWKlJ_lM2R1L87zwfR-icZFj14oyqAPLoSjK5u\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:08 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:08 - carga_raw_geolocation - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_geolocation_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsCcULeNNCeaMLkrtYYlfnXKhRd5QRIm3Punh4L_Qdbzbix_QN60GXn3ZkF9Z3vvfZwkn57tbg4sqWiTKUy5EZ7Qw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:08 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:08 - carga_raw_items - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_items_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsQv_CGwhec-RqTWBq3xmtsEcfIXFYzN8vRY_vyiP9QubQRGe2ou42rMFRAaxtxmRnWCJfl287DRtZ5pDZ-3NQBfNm0JfRZ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:08 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:09 - carga_raw_orders - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_orders_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_orders_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdv8GlN6tUdWrBcZNL7VJT6B5bQ5rqcbWSSrCAeQpYegH32QjeoQtmDMhyYzL8h-poQOLt7nR9yL5jQ-9Cu_eDNG0g\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:09 - carga_raw_payments - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_payments_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdswQpDM4LNqoYO5_aemC2zDr2fCb0FV9xzwfDoCcMQHUnJTUPUXab3A61PZLxbkCv6TQaCvjGLe_7_az7rMYcVaaw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:09 - carga_raw_products - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_products_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_products_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycds3NhlnOMWemgFOFEeYqXS76IgsVuNTRAv80Vt41ozqqCM8Vn83CMLuLBnWKe736A2Qnme1tv_qgPAxiSKXn91IwA\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:10 - carga_raw_reviews - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_reviews_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdviP4dTNDRQYjznc6ugUeBtuLMoNOAa8_IXyth1hClZuJGIrVSfev74Pc_rw6Ts37qxL_t8EB-ZMU2Q23HBj0srqQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:10 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:10 - carga_raw_sellers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_sellers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdvnelj7kebZbfuLqLVnePe3sT74xkgonhDr3_Sc-sZ7__8S3U7i8dxcsEfwtkse9AKn-HlDdJmRPgu5m3CsI6pmFWTXv9jt\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:10 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:38 - carga_raw_customers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_customers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_customers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycduOF4wa9-D1AWMpT2YcGBM4EgZmoSbju_jd95sXjiAtgiYaUCdfGJpaQqZ1VDJdFgb76PCHpDd4UTqq7SXc2N1wEpVDf7bm\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:38 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:38 - carga_raw_geolocation - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_geolocation_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsANXUG-zHs5pyO55hv4v73zXOO7k7MHMb0_TMhXg__DCHWmokSD8TiijRoMvgGJcAKySe5BLHM22dX35-hAok_gw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:38 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:38 - carga_raw_items - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_items_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdvVqxHzhXf_CaZqCe7vtHGrP0QZ-QgPudYsg6IiznAFaJDucCoCGudYpq0b8fbi6kimNrH7jl3Bq8Y2a3BSyLW2XxnyAbfF\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:38 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:39 - carga_raw_orders - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_orders_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_orders_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdvBeVioL5uIgMhdTQ4w-jbz90KyIHGW6HErXa1DWAcnjX6IdXMPfxThQHUT_EIuX4ti5eQpPvcOUvslW0XzfKZNWQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:39 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:39 - carga_raw_payments - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_payments_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsYbwJ_qeJYsLSNJm4acUCG39bir7isHMfZJWsPgK01U5gX0pSuUejtQe3vqTj7r7UBOMXKFQ66J8Vykb6bEX5MmQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:39 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:39 - carga_raw_products - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_products_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_products_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdu_kXvOxir1Zbb7oV32qGKv2QoJdf3QHtUnN79gMq_b3QL8gqnimO0Nhw7IOEW-8h-MqVVF1TyATdda8NEVx3sEJWbIDm5L\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:39 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:40 - carga_raw_reviews - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_reviews_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycduna5eDHQZ7u7_mtAUElk2Mv03n9BMQuhVsWrxMq64fWVx9Ok8OtTWmfXvgqX2_rju0BBeiaEhihrAO99eYZFYqSg\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:40 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:40 - carga_raw_sellers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_sellers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdt73q8PTmTRva3LwRnpKIEpE5UAEO0eB6Jl6Qjz4L6bjwYtXVZxXp35uYZpW-FXunVnWVnPiLgm9MMQS7Y-ePDIcw\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:11:40 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:08 - carga_raw_customers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_customers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_customers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdtUsyRSjx6RyZoS8YQYYEnz0PQY1Ha0PesjPlY3ePtd-4tJx7QIYnHA0FCldh7lnIm97VM97IC2Zt78lTF0fMv0ti-UAyV7\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:08 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:08 - carga_raw_geolocation - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_geolocation_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_geolocation_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsBZZpLndXYbx2QQ63ZMug2eWHtTs4TR2esx-Yoy33jCKWirXH5lHl3adGUM7rqfgXJWG9Ox-QePU3j5sSiVTaNbH7jdoMc\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:08 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:09 - carga_raw_items - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_items_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_items_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdvd0L6ojLL1WmhhFPoC9z7pOIaG9BEC_BdWnP3edOdDRN8c7DtMIbBI9bHW_tFt7S3r8DitN6rx9_P5SxTEmfwFhA\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:09 - carga_raw_orders - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_orders_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_orders_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsYcoLk-HFd31YGHPKaYcxOtQ9VCQubqQbM8hoDH7u-0TzvhMDfSvDT9VTU55dAYapLdcDP5rdCCbkguEDX-nADtQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:09 - carga_raw_payments - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_payments_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_payments_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsdpjZM80stIz0SsLfWjMLIE7y-5UWpie6KfnLUp7AKGs9ajjUPCh2RPH5OVoLSPj_qT1KGU7_OBKSv4ItQbY22AeDDHAoH\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:09 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:10 - carga_raw_products - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_products_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_products_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsS-8JtoCalNmER_KYT4jEkxDZ7h0tZPf--mBBAcgsfFN-YGkzF5z2MBP56eUbMYfwrLW8kSSrpPPev1rIwVr_1qQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:10 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:10 - carga_raw_reviews - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_order_reviews_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_order_reviews_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycdsvOFxLavUQtPVJz63Trnba0SHcK3MlGcK3g3OZ-16HB7f25yd6qVWuNuC5qurqUX9eD0GaaVgu6rbhXYoKF8_eQQ\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:10 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:12:10 - carga_raw_sellers - Match operation failed with exceptions {'gs://olist_brasil_project/tranzient/olist_sellers_dataset.csv': HttpUnauthorizedError('HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/tranzient%2Folist_sellers_dataset.csv?alt=json>: response: <{\'x-guploader-uploadid\': \'ADPycduLt629gn5dSuYaQQGgjNKHObWcEwUYbnmPy6H5GVXB-W0p5BLjxU_7Rbcbcyftp_RwhsK09DkoLTDux4-GYgwZww\', \'content-type\': \'application/json; charset=UTF-8\', \'date\': \'Wed, 05 Jul 2023 00:12:10 GMT\', \'vary\': \'Origin, X-Origin\', \'www-authenticate\': \'Bearer realm="https://accounts.google.com/"\', \'cache-control\': \'no-cache, no-store, max-age=0, must-revalidate\', \'expires\': \'Mon, 01 Jan 1990 00:00:00 GMT\', \'pragma\': \'no-cache\', \'content-length\': \'582\', \'server\': \'UploadServer\', \'alt-svc\': \'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000\', \'status\': \'401\'}>, content <{\n  "error": {\n    "code": 401,\n    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n    "errors": [\n      {\n        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission \'storage.objects.get\' denied on resource (or it may not exist).",\n        "domain": "global",\n        "reason": "required",\n        "locationType": "header",\n        "location": "Authorization"\n      }\n    ]\n  }\n}\n>')}
+-------------------------------------------------------------------------------- 
+04/07/2023 21:19:31 - carga_raw_customers - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:23:05 - carga_raw_geolocation - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:23:58 - carga_raw_items - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:25:10 - carga_raw_orders - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:25:49 - carga_raw_payments - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:26:16 - carga_raw_products - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:27:31 - carga_raw_reviews - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:27:40 - carga_raw_sellers - Sucesso

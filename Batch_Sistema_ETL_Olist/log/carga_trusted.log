@@ -1,0 +1,798 @@
+2023-06-27 10:27:18.218873 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 10:28:54
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_stream/raw/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 10:30:21
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_stream/raw/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 10:34:09
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_stream/raw/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 10:35:46
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_stream/raw/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:39:14.955252 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:42:03.597198 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:48:55.033833 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:51:42.333607 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:53:54.581944 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 10:55:30.600621 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:00:40.046531 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:04:08.041785 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:05:49.474590 - Processo de carga RAW custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 11:07:40
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/trusted/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 11:08:01
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/trusted/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:09:10.746620 - Processo de carga TRUSTED custumers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 11:15:44
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/trusted/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+27/06/2023 11:18:22
+Customres -> Erro: No files found based on the file pattern gs://olist_brasil_project/trusted/customers.parquet
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:23:59.624282 - Processo de carga BigQuery customers - OK
+27/06/2023 11:24:00
+Customres -> Erro: olist_brasil_project/trusted/up_customers.parquet [while running 'Load Parquet']
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:26:00.706082 - Processo de carga BigQuery customers - OK
+27/06/2023 11:26:01
+Customres -> Erro: olist_brasil_project/trusted/up_customers.parquet [while running 'Load Parquet']
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:32:59.776816 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 11:57:22.684990 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-27 12:12:58.120555 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 21:31:09.056567 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:31:23.801935 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:31:35
+Ítems -> Erro: could not convert string to float: '2017-09-19 09:45:35'
+--------------------------------------------------------------------------------
+2023-06-30 21:31:52.677647 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:32:12.851646 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:32:24
+Products -> Erro: could not convert string to float: ''
+--------------------------------------------------------------------------------
+30/06/2023 21:32:33
+Reviews -> Erro: invalid literal for int() with base 10: '2018-08-15 18:28:20'
+--------------------------------------------------------------------------------
+2023-06-30 21:32:37.018450 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 21:44:24.210600 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:44:42.053358 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:45:00.145895 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:45:31.175253 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:45:57.697548 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:46:10
+Products -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 1 with type object')
+--------------------------------------------------------------------------------
+30/06/2023 21:46:19
+Reviews -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 4 with type object')
+--------------------------------------------------------------------------------
+2023-06-30 21:46:24.528575 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 21:51:30.820105 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:51:47.231926 - Processo de carga TRUSTED geolocation - OK                                                                                       
+--------------------------------------------------------------------------------
+2023-06-30 21:52:10.758243 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:52:43.526691 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:53:10.427274 - Processo de carga TRUSTED payments - OK
+2023-06-30 21:54:48.903460 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:55:10.476533 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:55:33.732759 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:56:09.665515 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 21:56:38.940996 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+30/06/2023 21:56:51
+Products -> Erro: DataFrame.replace() got an unexpected keyword argument 'subset'
+--------------------------------------------------------------------------------
+30/06/2023 21:56:59
+Reviews -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 4 with type object')
+--------------------------------------------------------------------------------
+2023-06-30 21:57:05.270675 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 22:06:57.254757 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-06-30 22:07:13.134782 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-06-30 22:07:36.363030 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-06-30 22:08:13.756949 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-06-30 22:08:44.124121 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-06-30 22:09:01.066664 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+30/06/2023 22:09:13
+Reviews -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 4 with type object')
+--------------------------------------------------------------------------------
+2023-06-30 22:09:20.727260 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+30/06/2023 22:13:42
+Reviews -> Erro: Cannot convert non-finite values (NA or inf) to integer
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+30/06/2023 22:14:56
+Reviews -> Erro: Cannot convert non-finite values (NA or inf) to integer
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+30/06/2023 22:16:32
+Reviews -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 4 with type object')
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+30/06/2023 22:19:25
+Reviews -> Erro: ("Expected bytes, got a 'int' object", 'Conversion failed for column 4 with type object')
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 22:20:31.740057 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-06-30 22:21:47.240650 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 17:32:24.711689 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:32:41.097443 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:33:04.650301 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:33:37.522098 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:34:04.043849 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:34:24.012808 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:34:48.804785 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:35:05.587748 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 17:50:02.698091 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:50:19.565013 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:50:41.094789 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:51:16.011663 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:51:41.306194 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:52:01.171540 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:52:27.487972 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 17:52:42.490889 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 18:33:51.523369 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:34:10.876954 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:34:32.790871 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:35:06.173021 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:35:33.207117 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:35:51.846057 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:36:21.201252 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:36:38.436219 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 18:39:48.429930 - Processo de carga TRUSTED customers - OK
+01/07/2023 18:39:58
+Customres -> Erro: KeyboardInterrupt [while running 'Parse CSV']
+--------------------------------------------------------------------------------
+2023-07-01 18:40:05.151588 - Processo de carga TRUSTED geolocation - OK
+2023-07-01 18:47:54.763426 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:48:17.041172 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:48:39.555010 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:49:10.183520 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:49:43.806162 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:50:05.710902 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:50:38.651598 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 18:50:58.917839 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 20:18:56.656793 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:19:15.101700 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:19:36.564008 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:20:09.333993 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:20:34.730859 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:20:53.577177 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:21:18.971342 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:21:34.537255 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 20:41:02.810013 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:41:19.092876 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:41:39.062244 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:42:09.785208 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:42:33.441276 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:42:53.206488 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:43:18.911036 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 20:43:35.388506 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 21:25:58.325443 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:26:14.301025 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:26:39.140089 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:27:11.440462 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:27:37.143136 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:27:59.875513 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:28:23.325539 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 21:28:38.070266 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+2023-07-01 22:04:19.634621 - Processo de carga TRUSTED customers - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:04:35.713670 - Processo de carga TRUSTED geolocation - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:04:57.731451 - Processo de carga TRUSTED items - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:05:29.680730 - Processo de carga TRUSTED orders - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:05:59.278197 - Processo de carga TRUSTED payments - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:06:27.235407 - Processo de carga TRUSTED products - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:06:55.487166 - Processo de carga TRUSTED reviews - OK
+--------------------------------------------------------------------------------
+2023-07-01 22:07:12.270704 - Processo de carga TRUSTED sellers - OK
+--------------------------------------------------------------------------------
+________________________________________________________________________________
+
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:36 - carga_trusted_customers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fcustomers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycduy0x9jSCGHO4V1-UKY0RXTwCZIdYBIGYlJ6kJyMsqo7YDWp_kYhP20QTxCcTZC0RAB0T3-snz1RL-0pFZ1TvPykg', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:36 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:36 - carga_trusted_geolocation - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fgeolocation.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdsDdcpl8Ph7AelFwWDytJ5evLM2mgY6S8VmtmPZM6TjfCX_-NGeAvPbTAwEXrWk0ZYEW58OxGwSkPuxr0-gptOfVA', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:36 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:37 - carga_trusted_items - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fitems.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdsE-st1sfRYo1LnZxsTG_nduBRPl7cS_JkWFkNP2Bm1Z_2z525wt1PjWmMU5EYij8Pc3R70xI0M0ymv-9EvxFgaHw', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:37 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:37 - carga_trusted_orders - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Forders.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdsNKP_v9nFOrYQyzGUOOffDsqLc05ctWUFVhWi56L_Oz8VMgxAMHxCUPg3KDTfHw9p_JcZtNuF7H5Ka14vqav5YtQ', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:37 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:37 - carga_trusted_payments - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fpayments.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvUSOKUmuWwTnVR_2H9xZ4QNnnfgRULY-Bmd_VMn11x9XiryB28tHQpl6LZhEDkZryOMnTOLHQ5Y0uEnaMSx-_VNw', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:37 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:37 - carga_trusted_products - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fproducts.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycduBzgsAyUHZgqonUvFnUrKqaxFuKg10e86XKgzYvH5e9p6dGbCUoZ_0xQ0lKFBJRomWh4t12AqxNZeTD-W5T0dFsQ', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:37 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:37 - carga_trusted_reviews - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Freviews.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtZe2CdYMOOuO4NQFsvUQFXUe4OHgI7WaB0a7xQzkkT6IsIa6zIOWkc0nmpJPVjmzB56OVcP9rFXq8tMLN4DwNjvg', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:37 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 14:27:38 - carga_trusted_sellers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fsellers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdt92CrAQmIfm3GaWWbVktxpD_0Smq52lbLice6dxGKkZk_9ZICYpJ5FWVtW2uzUm_D1TLUgOTLex_yzeuxEXBAP5g', 'content-type': 'application/json; charset=UTF-8', 'date': 'Tue, 04 Jul 2023 17:27:38 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:11 - carga_trusted_customers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fcustomers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvT7Y5fnwdRS_E0zDoNpJKO1BvlSMFPZepC9rZAbJbdizuLAN5Z9HWI9V3mnrT_jCY1-fgHKmkepLoF3pWC4OJmwg', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:11 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:11 - carga_trusted_geolocation - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fgeolocation.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtyyFxkLe7Fd69kXWC-AYO_eznoRn5etS_jZGy9Q7hE4ouUCcWjpyoNI5lsrEsP8_APJDkvLobCSUZKsTJe5XIcJw', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:11 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:12 - carga_trusted_items - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fitems.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtZcxxH_Ito2aV-sOCgLzDLJF403ZQ0YZtl5H_8JKHJUUjinWTJL_5RKADn5Cm9LS12qmuQb5RylbBC5NoDvlyZng', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:12 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:12 - carga_trusted_orders - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Forders.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtKgWF5xmvm0vx20EvjzepX8Q53UwgQUSYtZuvIFcEiRXF4LQVRzzVXnOV0E2rHvIYphNTy0AmNSjfx9St6UJk6Og', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:12 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:13 - carga_trusted_payments - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fpayments.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdu98Mjna1xGn14ZwkGC6RhkMnCMDkPi6MSdH1DR6HedgnsEx3fvPTbhbQEwfyaadNCB71jHWoWAi-6e-W7QrB9Log', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:13 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:13 - carga_trusted_products - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fproducts.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvgtf47Zh6o9fRVAc61jeG3Z_JnFLSG4-7ofC9jJV2iyuzJ1FDqSp0Z4jhrSA445-tmO-VriNS5GhP4UEk3cwz9-w', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:13 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:14 - carga_trusted_reviews - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Freviews.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvOVq1np7EppNgctayEsHb-L9UtbWcNwZJhjdYRn0D-7Iln0Gr9kwogg45peQBy7rc6liJs5A4KWAyOJgzgn3kLRg', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:14 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:14 - carga_trusted_sellers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fsellers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvmdqKz68TPtiNLhaOK4trn25F4dQYPP9Kcci4sYPpr9K_ozA-6IJwF8dJ_kBUdRyMGABNHpL-2GIhLyQ5HxuvCfw', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:14 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:40 - carga_trusted_customers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fcustomers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdskoWyHSh-2ZqIimSOW8-nJCorEbSNwfyscR62NG3VlghWVgTifBNIDNSleVdqKWRkC0N9TcOa2q6BjA2DR744jDV2taCzC', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:40 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:41 - carga_trusted_geolocation - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fgeolocation.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtLfZpSwdCfV3VzAH2eaG-DIIuf26jfhV6SGCNVfD-vDuhR19YeYWgQHRaquZH9UGddAk878zextGAzedUzjawG006PuB6J', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:41 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:41 - carga_trusted_items - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fitems.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdv8mwrbBKNBT2QlzxGmDZ3WrqfnsevlH9JxsamGTQk2MzEZHres3SBko3Tz7RrS4oedsJRXd46ldjVky0evn_SKig', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:41 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:41 - carga_trusted_orders - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Forders.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycds7XlpObXSaAO6adOElD7SsBQ2AT9zwcq0-hgvSoFfYWCc8-N2KlAA1rkuV4-KwDRgWeno2him3fvTW3Nm2njsnYvKT7iBq', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:41 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:41 - carga_trusted_payments - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fpayments.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdtNjqS3oLFKpmz4PRzYTHfVSzgwXN8cpYJwdEFQwf3UygiI1FnCA3n0YboTmD-Dsrpvwy3uefBpL7-x4GOthyj22Q', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:41 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:42 - carga_trusted_products - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fproducts.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvRQ1iGfOfBAlk9FKZ1ER9rryCwWhTC51yZfxFQ3O5U6pyhzr874vV_Ji0rOb3Da4bEoka3LGxkyEMX-Y2rTRiR0w', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:42 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:42 - carga_trusted_reviews - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Freviews.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycdvNlg5s_dgO-wApX9lgLOJ1rrk6hsoIpL4sVmJmBKYMf_Qigks1r4_2B8xEcooQ4ht8bqThVNHfXWAr9FifplJWzw', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:42 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:11:42 - carga_trusted_sellers - HttpError accessing <https://www.googleapis.com/storage/v1/b/olist_brasil_project/o/trusted%2Fsellers.parquet?alt=json>: response: <{'x-guploader-uploadid': 'ADPycduuhRy3K9ULo49Ct_PTI2vHyZIJ8KNVAdXuDKmeYYLrm7bq1t468CBoScaOjUVxjyDMDiEkm9UaZxdNaOGdwnhgag', 'content-type': 'application/json; charset=UTF-8', 'date': 'Wed, 05 Jul 2023 00:11:42 GMT', 'vary': 'Origin, X-Origin', 'www-authenticate': 'Bearer realm="https://accounts.google.com/"', 'cache-control': 'no-cache, no-store, max-age=0, must-revalidate', 'expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'pragma': 'no-cache', 'content-length': '582', 'server': 'UploadServer', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'status': '401'}>, content <{
+  "error": {
+    "code": 401,
+    "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+    "errors": [
+      {
+        "message": "Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object. Permission 'storage.objects.get' denied on resource (or it may not exist).",
+        "domain": "global",
+        "reason": "required",
+        "locationType": "header",
+        "location": "Authorization"
+      }
+    ]
+  }
+}
+>
+-------------------------------------------------------------------------------- 
+04/07/2023 21:28:06 - carga_trusted_customers - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:28:16 - carga_trusted_geolocation - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:28:43 - carga_trusted_items - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:29:15 - carga_trusted_orders - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:29:34 - carga_trusted_payments - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:29:48 - carga_trusted_products - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:30:17 - carga_trusted_reviews - Sucesso
+-------------------------------------------------------------------------------- 
+04/07/2023 21:30:24 - carga_trusted_sellers - Sucesso
